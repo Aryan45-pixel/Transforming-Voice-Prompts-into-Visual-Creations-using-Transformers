@@ -1,0 +1,2 @@
+# Transforming-Voice-Prompts-into-Visual-Creations-using-Transformers
+This project explores the fusion of natural language processing, speech recognition, and generative image modeling to create an AI system capable of transforming spoken voice prompts into high-quality visual images. It leverages Transformer-based models like Wav2Vec2.0 for audio-to-text conversion and Stable Diffusion for text-to-image generation.
